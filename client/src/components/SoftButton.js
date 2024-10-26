@@ -8,7 +8,7 @@ const SoftButton = styled.button`
   font-weight: bold;
   
   border-radius: 18px;
-  border: 4px solid rgba(235, 101, 205);
+  border: 2px solid rgba(235, 101, 205);
 
   width: 150px;
   height: 50px;
