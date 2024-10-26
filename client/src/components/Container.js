@@ -6,13 +6,13 @@ const Container = styled.div`
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 85%;
+    width: 90%;
     height: auto;
     @media (max-width: 768px) {  /* Tablet */
       width: 80%;
     }
     @media (max-width: 480px) {  /* Mobile */
-      width: 76%;
+      width: 70%;
     }
 `;
 
