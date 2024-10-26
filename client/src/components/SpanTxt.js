@@ -22,9 +22,9 @@ const SpanTxt = styled.span`
   ${({huge, nav, medium}) => {
     if (huge) {
       return `
-        font-size: 50px;
+        font-size: 35px;
         @media (min-width: 769px) and (max-width: 1024px) {
-          font-size: 80px;
+          font-size: 55px;
         }
         @media (min-width: 1025px) {
           font-size: 100px;
