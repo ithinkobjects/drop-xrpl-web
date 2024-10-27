@@ -47,15 +47,13 @@ const About = ({ clickedEnter }) => {
             </DivFlexCenter>
             <DivFlexCenter content={'true'}>
               <Wrapper>
-                {/* <DivFlexCenter content='true'> */}
-                    <Image about='true' src='/dist/droptrekk.png'/>
-                    <SpanTxt medium={'true'} style={{textAlign: 'left'}}>
-                      Hi, my name is Drop! There are 1,000,000 drops in one XRP. Which is equal to 0.000001 XRP.
-                      This means that one XRP is equal to one million drops and the supply of $DROP is one million.
-                      We represent the strength and unity of the XRP community, started by a leader in the space then taken over by the community and built into an army that can't be stopped!
-                      We are the largest and fastest growing meme coin on First Ledger and have our sights set on becoming the premier blue chip meme as well as the official mascot for the XRPL!
-                    </SpanTxt>
-                {/* </DivFlexCenter> */}
+                <Image about='true' src='/dist/droptrekk.png'/>
+                <SpanTxt medium={'true'} style={{textAlign: 'left'}}>
+                  Hi, my name is Drop! There are 1,000,000 drops in one XRP. Which is equal to 0.000001 XRP.
+                  This means that one XRP is equal to one million drops and the supply of $DROP is one million.
+                  We represent the strength and unity of the XRP community, started by a leader in the space then taken over by the community and built into an army that can't be stopped!
+                  We are the largest and fastest growing meme coin on First Ledger and have our sights set on becoming the premier blue chip meme as well as the official mascot for the XRPL!
+                </SpanTxt>
               </Wrapper>
             </DivFlexCenter>
           </DivContent>

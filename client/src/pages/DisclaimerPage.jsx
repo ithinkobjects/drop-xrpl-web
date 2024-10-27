@@ -41,7 +41,7 @@ const Disclaimer = ({ clickedEnter }) => {
       <Header/>
         <Container>
           <DivContent content='true'>
-            <DivFlexCenter>
+            <DivFlexCenter content='true'>
               <SpanTxt huge={'true'} style={{textAlign: 'center'}}>Disclaimer.</SpanTxt>
             </DivFlexCenter>
             <DivFlexCenter content={'true'}>
